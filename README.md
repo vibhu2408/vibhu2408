@@ -1,4 +1,4 @@
-![logo](https://github.com/vibhu2408/vibhu2408/blob/main/Vaibhav%20Gupta.gif)
+[![MasterHead](https://www.canva.com/design/DAFaPuNEtl8/mIEctQO9ZcR1EkVz7ORArg/edit?utm_content=DAFaPuNEtl8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 <h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtthdLuIGpO4jobk3Z_4iim0kjzI5iDeiRsw&usqp=CAU">
