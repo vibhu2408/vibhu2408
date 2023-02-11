@@ -1,10 +1,9 @@
-
+<p align="left"> <img src="https://github.com/vibhu2408/vibhu2408/blob/main/Vaibhav%20Gupta.gif" alt="vibhu2408" /> </p>
 <h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtthdLuIGpO4jobk3Z_4iim0kjzI5iDeiRsw&usqp=CAU">
 
-<p align="le![Vaibhav Gupta](https://user-images.githubusercontent.com/81480233/218244935-f9e849cd-ee75-45f4-b7e4-bf40b44a9a3c.gif)
-ft"> <img src="https://komarev.com/ghpvc/?username=vibhu2408&label=Profile%20views&color=0e75b6&style=flat" alt="vibhu2408" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhu2408&label=Profile%20views&color=0e75b6&style=flat" alt="vibhu2408" /> </p>
 
 - 🔭 I’m currently working on [OurApp](https://github.com/vibhu2408/OurApp)
 
