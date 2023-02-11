@@ -1,6 +1,6 @@
 ![logo](https://github.com/vibhu2408/vibhu2408/blob/main/Vaibhav%20Gupta.gif)
 <h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtthdLuIGpO4jobk3Z_4iim0kjzI5iDeiRsw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhu2408&label=Profile%20views&color=0e75b6&style=flat" alt="vibhu2408" /> </p>
@@ -9,16 +9,21 @@
 
 - 🌱 I’m currently learning **Flutter, React Native, NodeJs**
 
-- 💬 Ask me about **Machine Learning, React, MongoDB**
+- 👨‍💻 All of my projects are available at [https://linktr.ee/vaibhavgupta24](https://linktr.ee/vaibhavgupta24)
+
+- 💬 Ask me about **Machine Learning, React, MongoDB, NodeJs**
 
 - 📫 How to reach me **Vaibhavgupta24885@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15L_ZV8h0aFiIsLTn2n1cM3brdlAlK2XS/view?usp=share_link](https://drive.google.com/file/d/15L_ZV8h0aFiIsLTn2n1cM3brdlAlK2XS/view?usp=share_link)
 
+- ⚡ Fun fact **I think I m funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-gupta-4982911ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-gupta-4982911ba" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/vibhu_24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vibhu_24/" height="30" width="40" /></a>
+<a href="https://discord.gg/1233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1233" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
