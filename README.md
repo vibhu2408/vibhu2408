@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Vaibhavgupta24885@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15L_ZV8h0aFiIsLTn2n1cM3brdlAlK2XS/view?usp=share_link](https://drive.google.com/file/d/15L_ZV8h0aFiIsLTn2n1cM3brdlAlK2XS/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BU6R9KhneBxiEEoSRSD4KkDrw1G_RheK/view?usp=drive_link](https://drive.google.com/file/d/1BU6R9KhneBxiEEoSRSD4KkDrw1G_RheK/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I m funny**
 
