@@ -5,17 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhu2408&label=Profile%20views&color=0e75b6&style=flat" alt="vibhu2408" /> </p>
 
-- 🔭 I’m currently working on [OurApp](https://github.com/vibhu2408/OurApp)
-
-- 🌱 I’m currently learning **Flutter, React Native, NodeJs**
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/vaibhavgupta24](https://linktr.ee/vaibhavgupta24)
-
-- 💬 Ask me about **Machine Learning, React, MongoDB, NodeJs**
-
 - 📫 How to reach me **Vaibhavgupta24885@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BU6R9KhneBxiEEoSRSD4KkDrw1G_RheK/view?usp=drive_link](https://drive.google.com/file/d/1BU6R9KhneBxiEEoSRSD4KkDrw1G_RheK/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I m funny**
 
